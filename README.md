@@ -126,9 +126,8 @@ graph LR
 
 Add this badge to your main README to show build status:
 
-```markdown
 [![CI/CD Pipeline](https://github.com/karthik74066/Kaiburr-Karthik-S-Task4-CI-CD/actions/workflows/ci.yml/badge.svg)](https://github.com/karthik74066/Kaiburr-Karthik-S-Task4-CI-CD/actions)
-```
+
 
 ## 🐛 Troubleshooting
 
