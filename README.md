@@ -1,5 +1,7 @@
 # Kaiburr Task 4 - CI/CD Pipeline
 
+[![CI/CD Pipeline](https://github.com/karthik74066/Kaiburr-Karthik-S-Task4-CI-CD/actions/workflows/ci.yml/badge.svg)](https://github.com/karthik74066/Kaiburr-Karthik-S-Task4-CI-CD/actions)
+
 ## 📋 Overview
 
 This task implements a **CI/CD pipeline** for the Kaiburr Task Manager application using **GitHub Actions**. The pipeline automatically builds both the Java Spring Boot backend and the React TypeScript frontend whenever code is pushed to the repository, ensuring continuous integration and delivery.
@@ -121,12 +123,6 @@ graph LR
 2. View the list of workflow runs
 3. Click on any run to see detailed logs
 4. Check individual job statuses (Backend Build, Frontend Build)
-
-### Build Badge
-
-Add this badge to your main README to show build status:
-
-[![CI/CD Pipeline](https://github.com/karthik74066/Kaiburr-Karthik-S-Task4-CI-CD/actions/workflows/ci.yml/badge.svg)](https://github.com/karthik74066/Kaiburr-Karthik-S-Task4-CI-CD/actions)
 
 
 ## 🐛 Troubleshooting
