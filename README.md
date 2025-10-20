@@ -27,7 +27,7 @@ This task implements a **CI/CD pipeline** for the Kaiburr Task Manager applicati
 ## 📁 Project Structure
 
 ```
-Kaiburr-Task-Karthik-S-CI-CD/
+CI-CD Pipeline
 │
 ├── .github/
 │   └── workflows/
